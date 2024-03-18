@@ -1,0 +1,11 @@
+[
+    {"name": "misery cats", "path": "misery.mp4", "category":  ["Weird"]},
+    {"name": "Bingus", "path": "bingus2.mov", "category":  ["Bingus"]},
+    {"name": "Bingus Stretch", "path": "bingus.mov", "category": ["Bingus"]},
+    {"name": "McDonalds Cat Purple", "path": "1.jpg", "category":  ["Cute"]},
+    {"name": "McDonalds Cat", "path": "2.jpg", "category": ["Cute"]},
+    {"name": "Bingus awaits", "path": "https://media1.tenor.com/m/iwKGTu4RUVMAAAAd/bingus.gif", "category": ["Bingus"]},
+    {"name": "huh??", "path": "https://media1.tenor.com/m/7t63GFnoIPUAAAAd/huh-cat-huh-m4rtin.gif", "category": ["Other"]},
+    {"name": "Singing Cat", "path": "https://media1.tenor.com/m/z-PogR794a4AAAAd/pentu-scream-pentu.gif", "category": ["Kitten", "Cute"]},
+    {"name": "Kitten Meow", "path": "https://media1.tenor.com/m/xOPEoDp3VM8AAAAC/meowing4u-baby.gif", "category": ["Kitten","Cute"]}
+]
